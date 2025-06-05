@@ -16,9 +16,12 @@ If you want to donate for coffee and gas: `0x33753AE385d89b220c42745F9Fc7a845747
 
 ## Send Delegation Transaction
 
+> WARNING!!!! Use this script very careful, if you delegate to a vulnerable contract you can lose all your funds
+
 - `cd EIP-7702Sender`
 - `npm i`
 - `echo "PK_SENDER=\nPK_DELEGATOR="  > .env`
+- Fill `TARGET_OF_DELEGATION` of `main.js`
 - Fill the `.env` file with your pk's
 - source `.env`
 - `node main.js`
