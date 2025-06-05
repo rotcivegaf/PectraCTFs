@@ -4,3 +4,9 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "lib/huffplug"]
+	path = lib/huffplug
+	url = https://github.com/webtresclub/huffplug
+[submodule "lib/solady"]
+	path = lib/solady
+	url = https://github.com/Vectorized/solady
