@@ -37,7 +37,16 @@ If you want to donate for coffee and gas: `0x33753AE385d89b220c42745F9Fc7a845747
 
 ## Challenges
 
-First Challenge: 
+### First Challenge: 
+
+<div>
+    <span style="font-weight: bold;">AWARD:</span> Sergeant Serpent
+    <div style="margin-top: -35px; margin-left: 175px;">  
+        <img src="https://storage.googleapis.com/nftimagebucket/tokens/0x0000420538cd5abfbc7db219b6a1d125f5892ab0/preview/TVRjME5qVTJNRFU0Tnc9PV8xODU=.gif" alt="Sergeant Serpent" width="50">  
+    </div>  
+</div>
+
+
 - Target: [`0x6Ee7BAEc10B60b2940c0631eFb3eeFB4C49c216d`](https://etherscan.io/address/0x6Ee7BAEc10B60b2940c0631eFb3eeFB4C49c216d#nfttransfers)
 - Vault Contract: [Vault.sol](src/Vault.sol)
 - Local Test: `forge test --match-contract VaultTest -vvv`
