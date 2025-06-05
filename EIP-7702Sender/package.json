@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"dotenv": "^16.5.0",
+		"viem": "^2.30.6"
+	}
+}

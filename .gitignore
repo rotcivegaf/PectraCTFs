@@ -14,3 +14,5 @@ docs/
 .env
 
 /lib/
+/EIP-7702Sender/node_modules/
+/EIP-7702Sender/package-lock.json
