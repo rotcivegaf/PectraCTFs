@@ -6,7 +6,7 @@ import {ERC721} from "solmate/tokens/ERC721.sol";
 import {Vault} from "../src/Vault.sol";
 
 contract VaultTest is Test {
-    address hacker = address(51651651);
+    address hacker = makeAddr("A HACKER");
     address user = 0x6Ee7BAEc10B60b2940c0631eFb3eeFB4C49c216d;
     address huffplug = 0x0000420538CD5AbfBC7Db219B6A1d125f5892Ab0;
 
@@ -17,7 +17,7 @@ contract VaultTest is Test {
         );
     }
 
-    function test_() public {
+    function testSolve() public {
         vm.startBroadcast(hacker);
         
         // DO SOMETHING HERE!!!
