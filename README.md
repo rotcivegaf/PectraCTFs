@@ -67,3 +67,16 @@ If you want to donate for coffee and gas: `0x33753AE385d89b220c42745F9Fc7a845747
 - Hack TX: [`0x9ec5...`](https://etherscan.io/tx/0x9ec5389474cb51f127e6f995bdf45fbb21c15be07d70b07a6d3a782413f2354f)
 - Solution: The trick of this challenge is that the wallet `Target` signed the delegate transaction with chain id `0` in the `Sepolia` network delegating to `0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441`(https://etherscan.io/address/0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441#code) which in mainnet contains the code of the `Multicall` contract. Then we can use this same signature in `mainnet` and call the `aggregate` function to get the Buttpluggy.
 > An interesting fact is that the winner first performed the delegation transaction and then the attack in separate transactions, and this could have been done within the same delegation transaction. I had thought of developing a frontrunning bot to steal this call but I didn't have the time.
+
+### Third Challenge: ----
+
+<div>
+    <span style="font-weight: bold;">AWARD:</span> Catalina PixelPaw
+    <div style="margin-top: -35px; margin-left: 180px;">  
+        <img src="https://storage.googleapis.com/nftimagebucket/tokens/0x0000420538cd5abfbc7db219b6a1d125f5892ab0/preview/TVRjME5qUTNNell4T1E9PV8yMA==.gif" alt="Catalina PixelPaw" width="50">  
+    </div>  
+</div>
+
+- Target: [`0xbfe3f46d097f4391ad641bc241d3871772f6a5d1`](https://etherscan.io/address/0xbfe3f46d097f4391ad641bc241d3871772f6a5d1#code)
+- Winner: [`0x`](https://etherscan.io/address/0x)
+
