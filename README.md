@@ -78,5 +78,6 @@ If you want to donate for coffee and gas: `0x33753AE385d89b220c42745F9Fc7a845747
 </div>
 
 - Target: [`0xbfe3f46d097f4391ad641bc241d3871772f6a5d1`](https://etherscan.io/address/0xbfe3f46d097f4391ad641bc241d3871772f6a5d1#code)
-- Winner: [`0x`](https://etherscan.io/address/0x)
-
+- Winner: [`0x339Ab752aa3A19e8BB7dC77Fc021deFbB0Bdd3A3`](https://etherscan.io/address/0x339Ab752aa3A19e8BB7dC77Fc021deFbB0Bdd3A3)
+- Delegation TX: [`https://etherscan.io/tx/0x328d...`](https://etherscan.io/tx/0x328d3ad11bbb212f0b8cbd768e8cb5a75a8d561d10338467a296e725d6910415#authorizationlist)
+- Hack TX: [`0x7971...`](https://etherscan.io/tx/0x7971a3f04717420176b89f9ebffda9694e8912aa3705ac2d54f2a0343b769394)
